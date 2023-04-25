@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="channel_name">MyChannel</string>
+    <string name="channel_description">My notification channel</string>
+    <string name="notification_title">MyApp notification</string>
+    <string name="notification_text">MyApp has been opened</string>
+</resources>
